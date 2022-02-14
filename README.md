@@ -7,4 +7,4 @@ To create a godmode folder for windows ten follow the 2 instructions:
 
 2: Name folder "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}"
 
-enjoy
+Enjoy
