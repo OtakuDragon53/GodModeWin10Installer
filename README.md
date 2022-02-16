@@ -1,7 +1,7 @@
 # GodModeWin10
 How to make a godmode folder on windows 10
 
-To create a godmode folder for windows ten follow the 2 instructions:
+Either download and run the installer, or follow these instructions:
 
 1: Create new folder
 
